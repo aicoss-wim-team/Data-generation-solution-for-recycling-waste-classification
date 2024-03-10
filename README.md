@@ -1,6 +1,7 @@
 ## KNU Industry-Academia Cooperation Project Competition: Solution for recycling waste classification domain (WIM)
 - Individual Research Repo  
-    Crop and Pasting [**[Link]**](https://github.com/knu-on-plus/Crop-Pasting)
+    - Crop and Pasting [**[Link]**](https://github.com/knu-on-plus/Crop-Pasting)
+    - Recycling Waste Detector [**[Link]**](https://github.com/knu-on-plus/Recycling_Waste_Detector)
 
 <img src="./asset/1.png" align="center" width="80%">  
 <img src="./asset/3.png" align="center" width="80%">  
